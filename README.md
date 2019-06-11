@@ -5,7 +5,7 @@ Also this is SUPER EARLY STAGE right now! Its barley tested.
 
 # Summary:
 
-In Visual Studio with C# you can import "references" by right clicking and selecting "Add Reference". 
+In Visual Studio with C# you can import ["references"](https://docs.microsoft.com/en-us/visualstudio/ide/how-to-add-or-remove-references-by-using-the-reference-manager?view=vs-2019) by right clicking and selecting "Add Reference". 
 
 What this repo will be is a simple DLL or Libary for a Red Teamers to use when creating .Net stuff. Just like in developer world this will reduce coding time and allow for quicker stuff creation. Also it makes my life easier as the tools guys/exploit dev when creating stuff in .Net. A special thanks to everyone in my [TheCollective](https://github.com/ceramicskate0/TheCollective) Repo. Your open source works helped me out alot with some of the methods, classes, and code used. 
 

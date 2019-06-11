@@ -1,5 +1,5 @@
 # AddReferenceDotRedTeam
-Future repo for software to test dotNet red stuff in VS without worrying about AV or whatever else like who made what and where it is. 
+Repo for software Lib to test dotNet red stuff in VS without worrying about AV or whatever else like who made what and where it is. 
 
 Also this is SUPER EARLY STAGE right now! Its barley tested.
 

@@ -1,26 +1,28 @@
 # AddReferenceDotRedTeam
-Future repo for software to test red implants in VS without worrying about AV. 
+Future repo for software to test dotNet red stuff in VS without worrying about AV or whatever else like who made what and where it is. 
 
-Also this is SUPER EARLY STAGE right now! Its litterally compileing methods right now. Not event tested.
-
-CODE COMING SOON.
+Also this is SUPER EARLY STAGE right now! Its barley tested.
 
 # Summary:
 
 In Visual Studio with C# you can import "references" by right clicking and selecting "Add Reference". 
 
-What this repo will be is a simple DLL or Libary for a Red Teamer to use when creating .Net stuff. Just like in developer world this will reduce coding time and allow for quicker stuff creation. Also it makes my life easier as the tools guys/exploit dev when creating stuff in .Net. A special thanks to everyone in my [TheCollective](https://github.com/ceramicskate0/TheCollective) Repo. Your opend source works helped me out alot with a basis for creating some of the methods,classes, and code used. 
+What this repo will be is a simple DLL or Libary for a Red Teamers to use when creating .Net stuff. Just like in developer world this will reduce coding time and allow for quicker stuff creation. Also it makes my life easier as the tools guys/exploit dev when creating stuff in .Net. A special thanks to everyone in my [TheCollective](https://github.com/ceramicskate0/TheCollective) Repo. Your open source works helped me out alot with some of the methods, classes, and code used. 
 
-I am hoping this will be similar to [TheCollective](https://github.com/ceramicskate0/TheCollective) Repo only for .Net or C# stuff. Im not looking for tools Im looking for methods and techniques that can be thrown together when creating tools. You know like a developer would do and not a scripter. I found most Red Team frameworks,tools, etc.. are nothing more than scripts and not very modular or flexable. But you can add them to the Lib (explained below "Adding to a Lib") The goal of this project is to change that. 
+I am hoping this will be similar to [TheCollective](https://github.com/ceramicskate0/TheCollective) Repo only for .Net or C# stuff. Im not looking for tools (preferably, but if its a class i wont object) Im looking for methods and techniques that can be thrown together when creating tools. You know like a developer would do and not a scripter. I found most Red Team frameworks, tools, etc.. are nothing more than scripts and not very modular or flexable. But you can add them to the Lib (explained below "Adding to a Lib") The goal of this project is to change that. 
 
-As with all C# tools Compile and load yourself.
+# How to get it to work:
+
+As with all C# tools compile and load yourself.
 
 # Contribute:
+
 If you want to add your favorite way to do somehting. Submit a pull reuqets and or open and issue.
 
 # [Special thanks and Credits:](https://github.com/ceramicskate0/TheCollective/blob/master/Lists/dotNET_Assembly_Payloads.txt)
 
-# Adding to a Lib
+# Adding to a Lib:
+
 If you want to add lets say [SharpUp](https://github.com/GhostPack/SharpUp) to the LIB because you want to add its functionality to you assembly. Not and issue, well not a big one. You can do this by adding it as a class to the Project. Changing any Main method to somehting you want. Making all methods and the class public then fixing any syntax or import issues you have by adding them to the project.
 
 # Legal Disclaimer:

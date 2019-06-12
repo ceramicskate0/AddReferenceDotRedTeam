@@ -1,7 +1,7 @@
 # AddReferenceDotRedTeam
 Repo for software Lib to test dotNet red stuff in VS without worrying about AV or whatever else like who made what and where it is. 
 
-Also this is SUPER EARLY STAGE right now! Its barley tested. This means im taking input on design and such also.
+Also this is SUPER EARLY STAGE right now! Its barley tested. This means im taking input on design and such also.Oh and I dont have a logo :'(
 
 # Summary and Why:
 
@@ -13,7 +13,7 @@ I am hoping this will be similar to [TheCollective](https://github.com/ceramicsk
 
 # How to get it to work:
 
-As with all C# tools compile and load yourself.
+As with all C# tools compile and load yourself. But with doing it this way its super easy.
 Hint Project-to project references
 
 # Contribute:

@@ -1,13 +1,13 @@
 # AddReferenceDotRedTeam
 Repo for software Lib to test dotNet red stuff in VS without worrying about AV or whatever else like who made what and where it is. 
 
-Also this is SUPER EARLY STAGE right now! Its barley tested. This mean im taking input on design and such also.
+Also this is SUPER EARLY STAGE right now! Its barley tested. This means im taking input on design and such also.
 
-# Summary:
+# Summary and Why:
 
 In Visual Studio with C# you can import ["References" or "Extensions"](https://docs.microsoft.com/en-us/visualstudio/ide/how-to-add-or-remove-references-by-using-the-reference-manager?view=vs-2019) by right clicking and selecting ["Add Reference"](https://docs.microsoft.com/en-us/visualstudio/ide/managing-references-in-a-project?view=vs-2019). 
 
-What this repo will be is a simple DLL or Libary for a Red Teamers to use when creating .Net stuff. Just like in developer world this will reduce coding time and allow for quicker stuff creation. Also it makes my life easier as the tools guys/exploit dev when creating stuff in .Net. A special thanks to everyone in my [TheCollective](https://github.com/ceramicskate0/TheCollective) Repo. Your open source works helped me out alot with some of the methods, classes, and code used. 
+What this repo will be is a simple DLL or Libary for a Red Teamers to use when creating .Net stuff. Just like in developer would, this will reduce coding time and allow for quicker stuff creation. Also it makes my life easier as the tools guys/exploit dev when creating stuff in .Net. A special thanks to everyone in my [TheCollective](https://github.com/ceramicskate0/TheCollective) Repo. Your open source works helped me out alot with some of the methods, classes, and code used. 
 
 I am hoping this will be similar to [TheCollective](https://github.com/ceramicskate0/TheCollective) Repo only for .Net or C# stuff. Im not looking for tools (preferably, but if its a class i wont object) Im looking for methods and techniques that can be thrown together when creating tools. You know like a developer would do and not a scripter. I found most Red Team frameworks, tools, etc.. are nothing more than scripts and not very modular or flexable. But you can add them to the Lib (explained below "Adding to a Lib") The goal of this project is to change that. 
 

@@ -12,19 +12,19 @@ namespace Out_CompressedDll
     class Out_CompressedDll
     {
 
-        public static string Out_Compressed_Dll(string FIlePath , string TemplatePath="")
+        public static string Out_Compressed_Dll(string Path , string TemplatePath="")
         {
 
-            if (!File.Exists(FIlePath))
+            if (!File.Exists(Path))
             {
-                throw new System.ArgumentException(FIlePath + " does not exist.");
+                throw new System.ArgumentException(Path + " does not exist.");
             }
 
-            byte[] FileBytes = File.ReadAllBytes(FIlePath);
+            byte[] FileBytes = File.ReadAllBytes(Path);
 
             if (FileBytes.Length < 1)
             {
-                throw new System.ArgumentException(FIlePath + "is not a valid executable.");
+                throw new System.ArgumentException(Path + "is not a valid executable.");
             }
 
             return Convert.ToBase64String(Function.Compress(FileBytes));

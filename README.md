@@ -3,6 +3,8 @@ Repo for software Lib to test dotNet red stuff in VS without worrying about AV o
 
 Also this is SUPER EARLY STAGE right now! Its barley tested. This means im taking input on design and such also.Oh and I dont have a logo :'(
 
+<img src="https://github.com/ceramicskate0/AddReferenceDotRedTeam/blob/master/Logo.png"  width="350" height="300">
+
 # Summary and Why:
 
 In Visual Studio with C# you can import ["References" or "Extensions"](https://docs.microsoft.com/en-us/visualstudio/ide/how-to-add-or-remove-references-by-using-the-reference-manager?view=vs-2019) by right clicking and selecting ["Add Reference"](https://docs.microsoft.com/en-us/visualstudio/ide/managing-references-in-a-project?view=vs-2019). 

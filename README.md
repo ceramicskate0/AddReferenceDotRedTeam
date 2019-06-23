@@ -3,7 +3,7 @@ Repo for software Lib to test dotNet red stuff in VS without worrying about AV o
 
 Also this is SUPER EARLY STAGE right now! Its barley tested. This means im taking input on design and such also.
 
-"  width="350" height="300">
+<img src="https://github.com/ceramicskate0/AddReferenceDotRedTeam/blob/master/Logo.png" width="350" height="300">
 
 # Summary and Why:
 

@@ -20,11 +20,11 @@ Hint Project-to project references
 
 # Contribute:
 
-If you want to add your favorite way to do somehting. Submit a pull reuqets and or open and issue.
+If you want to add your favorite way to do somehting. Submit a pull reuqets and or open an issue.
 
 # Adding to a Lib:
 
-If you want to add lets say [SharpUp](https://github.com/GhostPack/SharpUp) to the LIB because you want to add its functionality to you assembly. Not and issue, well not a big one. 
+If you want to add lets say [SharpUp](https://github.com/GhostPack/SharpUp) to the LIB because you want to add its functionality to you assembly. Not an issue, well not a big one. 
 - You can do this by adding it as a class to the Project. 
 - Changing any Main method to somehting you want. 
 - Making all methods and the class public then fixing any syntax or import issues you have by adding them to the project.

@@ -3,6 +3,8 @@ Repo for software Lib to test dotNet red stuff in VS like a developer.
 
 Also this is SUPER EARLY STAGE right now! Its barley tested. This means im taking input on design and such also.
 
+Additionally, there is a more complete repo I have found at https://github.com/cobbr/SharpSploit which has much the same goals with a little diffrent implimentation. If this repo doesnt have what you need (and lets be honest it doesnt have much (NDA's)) I would look at SharpSploit.
+
 <img src="https://github.com/ceramicskate0/AddReferenceDotRedTeam/blob/master/Logo.PNG" width="350" height="300">
 
 # Summary and Why:
